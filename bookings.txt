@@ -1,0 +1,3 @@
+Customer: sumeet chichkhede | Room Type: Deluxe
+Customer: Anjali | Room: Standard
+Customer: bhavesh pradhan | Room: Standard
